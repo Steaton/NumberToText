@@ -1,0 +1,5 @@
+domain\ThreeDigitGroupImpl.class
+domain\ThreeDigitGroup.class
+domain\WordedNumber.class
+constants\NumberWordConstants.class
+domain\WordedNumberImpl.class
